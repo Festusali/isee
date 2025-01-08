@@ -2693,15 +2693,15 @@ ul.breadcrumb-list li a.active {
 .side-mobile-menu ul li.has-dropdown > a:after {
   position: absolute;
   content: "";
-  width: 8px;
-  height: 8px;
+  width: 10px;
+  height: 10px;
   border-width: 2px 0 0 2px;
   border-style: solid;
   border-color: initial;
   right: 16px;
-  top: 50%;
-  -webkit-transform: rotate(-45deg) translateY(-50%);
-  transform: rotate(-45deg) translateY(-50%);
+  top: 60%;
+  -webkit-transform: rotate(135deg) translateY(50%);
+  transform: rotate(135deg) translateY(0%);
   -webkit-transform-origin: top;
   transform-origin: top;
   transition: all .3s ease-out;
