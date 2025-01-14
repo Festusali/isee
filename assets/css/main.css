@@ -4322,6 +4322,10 @@ ul.timeline li.timeline-list:hover::after {
   height: 100%;
 }
 
+.before-opacity-10::before {
+  opacity: 0.10;
+}
+
 .donation-wrapper .btn-list li {
   display: inline-block;
 }
