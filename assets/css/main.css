@@ -3341,7 +3341,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 .progress .progress-bar h5 {
   position: absolute;
-  right: 40px;
+  right: 0px;
   bottom: 12px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
